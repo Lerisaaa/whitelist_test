@@ -1,4 +1,4 @@
 {
-"authtest" : { Hwid: "testhwid", Id: "84218491239128", Key2: "ab782absdj248a" },
-"blabla" : { Hwid: "lololol", Id: "", Key2: "" },
+  "authtest" : { "Hwid": "testhwid", "Id": "84218491239128", "Key2": "ab782absdj248a" },
+  "blabla" : { "Hwid": "lololol", "Id": "", "Key2": "" }
 }
